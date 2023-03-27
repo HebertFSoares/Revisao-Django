@@ -20,3 +20,4 @@ class Uno(Carro):
 uno = Uno()
 uno.acelerar()
 print(uno.numero_rodas)
+print(uno.quantidade_passageiros)
